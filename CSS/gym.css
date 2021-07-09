@@ -1,0 +1,22 @@
+body{
+    background: url(../IMAGES/pexels-cottonbro-4753987.jpg);
+    background-size: cover;
+    font-family: 'Acme', sans-serif;
+
+}
+div{
+    background-color:burlywood;
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 150px;
+    border-radius: 20px;
+    font-size: 30px;
+    opacity: 70%
+}
+button{
+    
+    padding: 10px;
+    font-size: 20px;
+
+}
