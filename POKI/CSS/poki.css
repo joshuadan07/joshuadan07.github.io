@@ -1,0 +1,66 @@
+body{
+    
+    
+}
+
+.navbar-wrapper{
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 20;
+    
+}
+
+.navbar-wrapper .container{
+    
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.navbar-wrapper .navbar{
+    padding-right: 20px;
+    padding-left: 20px;
+      
+}
+
+.carousel{
+    
+    height: 500px;
+    margin-bottom: 50px;
+    
+}
+.carousel-inner > .item > img{
+    
+    height: 500px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    
+}
+
+.item{
+    
+    height: 500px;
+   }
+
+.team h2{
+    color: black;
+}
+
+.team .col-lg-4{
+    text-align: center;
+    
+}
+.content{
+    margin-bottom: 120px;
+}
+.indent{
+    padding-left: 50px;
+}
+footer{
+    margin: 0 50px;
+    
+    
+    }
