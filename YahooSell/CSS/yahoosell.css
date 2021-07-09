@@ -1,0 +1,26 @@
+.nav-justified
+{
+    border: 1px solid black;
+    background-color: lightgrey;
+    border-radius: 5px;
+}
+
+
+.nav-justified > li > a
+{
+    color: dimgrey;
+    
+}
+
+.jumbotron{
+    text-align: center;
+}
+
+.jumbotron .btn{
+    padding: 15px 15px;
+    border-radius: 5px;
+}
+
+.centro{
+    text-align: center;
+}
